@@ -1,0 +1,9 @@
+= autosetup
+
+Autosetup tool.
+
+== Copyright
+
+Copyright (c) 2016 kruczjak. See LICENSE.txt for
+further details.
+
